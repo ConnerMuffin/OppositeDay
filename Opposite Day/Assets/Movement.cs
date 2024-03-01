@@ -8,6 +8,9 @@ public class Movement : MonoBehaviour
     private float Move;
     private Rigidbody2D rb;
     public float JumpHeight;
+    bool Grounded;
+    public Transform GroundCheck;
+    public LayerMask groundLayer;
 
     // Start is called before the first frame update
     void Start()
@@ -22,7 +25,9 @@ public class Movement : MonoBehaviour
 
         rb.velocity = new Vector2(Move * speed, rb.velocity.y);
 
-        if(Input.GetButtonDown("Jump"))
+        Grounded = Physics2D.OverlapCircle(GroundCheck.position, 1f, groundLayer);
+
+        if(Input.GetButtonDown("Jump") && Grounded)
         {
             rb.AddForce(new Vector2(rb.velocity.x, JumpHeight));
         }
