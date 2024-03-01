@@ -339,7 +339,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
+      - m_Target: {fileID: 1236818540}
         m_TargetAssemblyTypeName: ToTutorial, Assembly-CSharp
         m_MethodName: changeScene
         m_Mode: 1
@@ -1586,6 +1586,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1236818539}
   - component: {fileID: 1236818538}
+  - component: {fileID: 1236818540}
   m_Layer: 0
   m_Name: sceneManager
   m_TagString: Untagged
@@ -1606,6 +1607,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   levelName: levelSelect
+  LevelSelectCanvas: {fileID: 1543708340}
+  MainMenuCanvas: {fileID: 1555551824}
 --- !u!4 &1236818539
 Transform:
   m_ObjectHideFlags: 0
@@ -1621,6 +1624,19 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1236818540
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1236818537}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f649b5ec1e0df7f4a8fdbbcf6d79faca, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  levelName: Tutorial
 --- !u!1 &1426617324
 GameObject:
   m_ObjectHideFlags: 0
@@ -1902,7 +1918,7 @@ GameObject:
   - component: {fileID: 1543708342}
   - component: {fileID: 1543708341}
   m_Layer: 5
-  m_Name: Level Select Canvas
+  m_Name: LevelSelectCanvas
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2008,7 +2024,7 @@ GameObject:
   - component: {fileID: 1555551826}
   - component: {fileID: 1555551825}
   m_Layer: 5
-  m_Name: Main Menu Canvas
+  m_Name: MainMenuCanvas
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
