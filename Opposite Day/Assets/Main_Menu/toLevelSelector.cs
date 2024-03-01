@@ -6,8 +6,11 @@ using UnityEngine.SceneManagement;
 public class toLevelSelector : MonoBehaviour
 {
     public string levelName;
+    public GameObject LevelSelectCanvas;
+    public GameObject MainMenuCanvas;
     public void changeScene()
     {
-        SceneManager.LoadScene(levelName);
+        LevelSelectCanvas.SetActive(true);
+        MainMenuCanvas.SetActive(false);
     }
 }
