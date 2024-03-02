@@ -25,7 +25,7 @@ public class Movement : MonoBehaviour
 
         rb.velocity = new Vector2(Move * speed, rb.velocity.y);
 
-        Grounded = Physics2D.OverlapCircle(GroundCheck.position, 1f, groundLayer);
+        Grounded = Physics2D.OverlapCircle(GroundCheck.position, .25f, groundLayer);
 
         if(Input.GetButtonDown("Jump") && Grounded)
         {
