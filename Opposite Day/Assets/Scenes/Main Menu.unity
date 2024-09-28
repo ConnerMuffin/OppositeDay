@@ -179,19 +179,10 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Circular Economy Waste Management: Waste in Vancouver would need to be
-    managed by adopting a circular economy model, where all waste is seen as a resource.
-    Advanced waste-to-energy technologies could convert non-recyclable waste into
-    clean energy, while comprehensive recycling programs could ensure that no materials
-    end up in landfills. Robotic waste sorters could enhance recycling efficiency.
-
-    Clean
-    Water Tech and Environmental Laws: To address water pollution, Vancouver could
-    use advanced filtration systems that clean industrial and agricultural runoff
-    before it reaches water sources. Stricter environmental laws and high fines for
-    polluters would need to be rigorously enforced. Meanwhile, eco-restoration programs
-    could aim to rehabilitate the Columbia River, using bioengineering techniques
-    like engineered wetlands to clean water naturally.
+  m_text: 'Provide universal basic income (UBI) to ensure that all residents have
+    a financial safety net. UBI would give citizens a guaranteed income to meet basic
+    needs, reducing poverty and economic inequality. This system helps cushion against
+    economic shocks and provides stability for people in lower-income brackets.
 
 '
   m_isRightToLeft: 0
@@ -432,7 +423,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Pollution and Environmental Crisis Solutions
+  m_text: Economic Inequality Solutions
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -1046,7 +1037,7 @@ GameObject:
   - component: {fileID: 405810240}
   - component: {fileID: 405810239}
   m_Layer: 0
-  m_Name: Exhibit3 (3)
+  m_Name: Exhibit6
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1273,19 +1264,18 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Circular Economy Waste Management: Waste in Vancouver would need to be
-    managed by adopting a circular economy model, where all waste is seen as a resource.
-    Advanced waste-to-energy technologies could convert non-recyclable waste into
-    clean energy, while comprehensive recycling programs could ensure that no materials
-    end up in landfills. Robotic waste sorters could enhance recycling efficiency.
+  m_text: 'Offer tax incentives to developers who build affordable housing, especially
+    in high-demand urban areas. This will encourage private-sector investment in
+    housing projects that benefit low-income residents. Affordable housing developments
+    could also integrate green technologies, like solar panels, to reduce utility
+    costs for residents.
 
-    Clean
-    Water Tech and Environmental Laws: To address water pollution, Vancouver could
-    use advanced filtration systems that clean industrial and agricultural runoff
-    before it reaches water sources. Stricter environmental laws and high fines for
-    polluters would need to be rigorously enforced. Meanwhile, eco-restoration programs
-    could aim to rehabilitate the Columbia River, using bioengineering techniques
-    like engineered wetlands to clean water naturally.
+    Clean Water Tech and Environmental Laws: To address
+    water pollution, Vancouver could use advanced filtration systems that clean industrial
+    and agricultural runoff before it reaches water sources. Stricter environmental
+    laws and high fines for polluters would need to be rigorously enforced. Meanwhile,
+    eco-restoration programs could aim to rehabilitate the Columbia River, using
+    bioengineering techniques like engineered wetlands to clean water naturally.
 
 '
   m_isRightToLeft: 0
@@ -1610,21 +1600,11 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Circular Economy Waste Management: Waste in Vancouver would need to be
-    managed by adopting a circular economy model, where all waste is seen as a resource.
-    Advanced waste-to-energy technologies could convert non-recyclable waste into
-    clean energy, while comprehensive recycling programs could ensure that no materials
-    end up in landfills. Robotic waste sorters could enhance recycling efficiency.
-
-    Clean
-    Water Tech and Environmental Laws: To address water pollution, Vancouver could
-    use advanced filtration systems that clean industrial and agricultural runoff
-    before it reaches water sources. Stricter environmental laws and high fines for
-    polluters would need to be rigorously enforced. Meanwhile, eco-restoration programs
-    could aim to rehabilitate the Columbia River, using bioengineering techniques
-    like engineered wetlands to clean water naturally.
-
-'
+  m_text: Install energy storage systems like advanced batteries to store excess
+    energy generated by renewables during peak production. These systems will help
+    stabilize the energy supply by distributing stored energy during high-demand
+    periods or when renewable sources are unavailable. This ensures consistent energy
+    availability, even during fluctuations in renewable output.
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -1758,12 +1738,11 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Air Purification Drones & Green Spaces: By 2054, cities like Vancouver
-    could deploy fleets of air purification drones. These autonomous drones would
-    hover over highly polluted areas, capturing CO2, particulate matter, and other
-    pollutants. Additionally, investing in vertical green spaces\u2014plants growing
-    on the exteriors of buildings\u2014would serve as natural air filters, cooling
-    the city and improving air quality."
+  m_text: Build high-density, affordable housing complexes that use modular and flexible
+    designs to house more people. These developments would include mixed-income housing
+    to ensure equitable access for all economic classes. Modular construction can
+    also reduce costs and construction time, making housing more accessible and adaptable
+    to population needs.
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -1897,7 +1876,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Pollution and Environmental Crisis Solutions
+  m_text: Lack of Green Space Solutions
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -2031,7 +2010,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Pollution and Environmental Crisis Solutions
+  m_text: Energy Shortages Solutions
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -2165,21 +2144,11 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Circular Economy Waste Management: Waste in Vancouver would need to be
-    managed by adopting a circular economy model, where all waste is seen as a resource.
-    Advanced waste-to-energy technologies could convert non-recyclable waste into
-    clean energy, while comprehensive recycling programs could ensure that no materials
-    end up in landfills. Robotic waste sorters could enhance recycling efficiency.
-
-    Clean
-    Water Tech and Environmental Laws: To address water pollution, Vancouver could
-    use advanced filtration systems that clean industrial and agricultural runoff
-    before it reaches water sources. Stricter environmental laws and high fines for
-    polluters would need to be rigorously enforced. Meanwhile, eco-restoration programs
-    could aim to rehabilitate the Columbia River, using bioengineering techniques
-    like engineered wetlands to clean water naturally.
-
-'
+  m_text: Conduct controlled burns to remove excess vegetation and reduce the risk
+    of larger, uncontrolled wildfires. Regularly scheduled controlled burns can lower
+    the amount of fuel available to wildfires, limiting their spread. This proactive
+    approach helps maintain healthier forest ecosystems and reduces fire risks to
+    nearby communities.
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -2517,7 +2486,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Pollution and Environmental Crisis Solutions
+  m_text: Climate-Induced Wildfire Solutions
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -2606,7 +2575,7 @@ GameObject:
   - component: {fileID: 795376193}
   - component: {fileID: 795376192}
   m_Layer: 0
-  m_Name: Exhibit3 (2)
+  m_Name: Exhibit5
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2971,7 +2940,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Pollution and Environmental Crisis Solutions
+  m_text: Waste Management Problem Solutions
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -3280,7 +3249,7 @@ GameObject:
   - component: {fileID: 923929131}
   - component: {fileID: 923929130}
   m_Layer: 0
-  m_Name: Exhibit3 (5)
+  m_Name: Exhibit8
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3378,7 +3347,7 @@ GameObject:
   - component: {fileID: 945762189}
   - component: {fileID: 945762188}
   m_Layer: 0
-  m_Name: Exhibit3 (6)
+  m_Name: Exhibit9
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -3607,9 +3576,11 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Carbon Capture and Sequestration: A widespread carbon capture infrastructure
-    could be essential by 2054, pulling CO2 directly from the atmosphere and storing
-    it underground, helping reverse decades of pollution.'
+  m_text: Design cities with firebreaks and green zones that act as barriers between
+    urban areas and fire-prone regions. These open spaces can prevent wildfires from
+    spreading into populated areas. Urban planners can also incorporate fire-resistant
+    materials in buildings and infrastructure to improve resilience against wildfire
+    threats.
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -4111,9 +4082,10 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Carbon Capture and Sequestration: A widespread carbon capture infrastructure
-    could be essential by 2054, pulling CO2 directly from the atmosphere and storing
-    it underground, helping reverse decades of pollution.'
+  m_text: Create microgrids to decentralize energy production and distribution, enhancing
+    grid resilience. Microgrids allow individual neighborhoods or buildings to generate
+    their own power, reducing strain on the central grid. This will make Vancouver
+    more self-sufficient and less vulnerable to large-scale power outages or disruptions.
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -4247,9 +4219,11 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Carbon Capture and Sequestration: A widespread carbon capture infrastructure
-    could be essential by 2054, pulling CO2 directly from the atmosphere and storing
-    it underground, helping reverse decades of pollution.'
+  m_text: "Develop waste-to-energy plants that convert non-recyclable waste into
+    electricity or heat. These plants would process waste that would otherwise sit
+    in landfills, reducing overall waste volume and providing an additional energy
+    source. This can lower the city\u2019s carbon footprint while addressing energy
+    shortages."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -4402,12 +4376,11 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Air Purification Drones & Green Spaces: By 2054, cities like Vancouver
-    could deploy fleets of air purification drones. These autonomous drones would
-    hover over highly polluted areas, capturing CO2, particulate matter, and other
-    pollutants. Additionally, investing in vertical green spaces\u2014plants growing
-    on the exteriors of buildings\u2014would serve as natural air filters, cooling
-    the city and improving air quality."
+  m_text: Use satellite and drone technology for early detection of wildfires, enabling
+    rapid response teams to contain them before they spread. These systems would
+    monitor fire-prone areas in real-time, improving the effectiveness of firefighting
+    efforts. Early intervention can drastically reduce the damage caused by wildfires,
+    saving both lives and property.
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -4647,12 +4620,10 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Air Purification Drones & Green Spaces: By 2054, cities like Vancouver
-    could deploy fleets of air purification drones. These autonomous drones would
-    hover over highly polluted areas, capturing CO2, particulate matter, and other
-    pollutants. Additionally, investing in vertical green spaces\u2014plants growing
-    on the exteriors of buildings\u2014would serve as natural air filters, cooling
-    the city and improving air quality."
+  m_text: Implement job training programs focused on high-demand sectors like technology,
+    AI, and renewable energy. These programs will provide low-income and marginalized
+    populations with skills needed for future-proof jobs. This will help bridge the
+    skills gap and provide more equitable economic opportunities across the city.
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -4786,12 +4757,11 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Air Purification Drones & Green Spaces: By 2054, cities like Vancouver
-    could deploy fleets of air purification drones. These autonomous drones would
-    hover over highly polluted areas, capturing CO2, particulate matter, and other
-    pollutants. Additionally, investing in vertical green spaces\u2014plants growing
-    on the exteriors of buildings\u2014would serve as natural air filters, cooling
-    the city and improving air quality."
+  m_text: Develop vertical parks and urban gardens to provide more green spaces in
+    densely populated areas. These parks can be incorporated into the sides of skyscrapers
+    or built into urban spaces, offering nature access to residents. Vertical parks
+    improve mental health, air quality, and biodiversity, even in highly developed
+    cities.
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -5570,7 +5540,7 @@ GameObject:
   - component: {fileID: 1400439646}
   - component: {fileID: 1400439645}
   m_Layer: 0
-  m_Name: Exhibit3 (4)
+  m_Name: Exhibit7
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5788,9 +5758,11 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Carbon Capture and Sequestration: A widespread carbon capture infrastructure
-    could be essential by 2054, pulling CO2 directly from the atmosphere and storing
-    it underground, helping reverse decades of pollution.'
+  m_text: Install green roofs on buildings to create additional green spaces while
+    reducing energy consumption and improving air quality. Green roofs absorb heat,
+    which can cool buildings and reduce the need for air conditioning. They also
+    act as urban oases, providing habitat for pollinators and helping to combat the
+    urban heat island effect.
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -6588,21 +6560,10 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Circular Economy Waste Management: Waste in Vancouver would need to be
-    managed by adopting a circular economy model, where all waste is seen as a resource.
-    Advanced waste-to-energy technologies could convert non-recyclable waste into
-    clean energy, while comprehensive recycling programs could ensure that no materials
-    end up in landfills. Robotic waste sorters could enhance recycling efficiency.
-
-    Clean
-    Water Tech and Environmental Laws: To address water pollution, Vancouver could
-    use advanced filtration systems that clean industrial and agricultural runoff
-    before it reaches water sources. Stricter environmental laws and high fines for
-    polluters would need to be rigorously enforced. Meanwhile, eco-restoration programs
-    could aim to rehabilitate the Columbia River, using bioengineering techniques
-    like engineered wetlands to clean water naturally.
-
-'
+  m_text: "Mandate that new developments include a minimum percentage of green space
+    or recreational areas. Developers would need to allocate land for parks, playgrounds,
+    or community gardens to promote a more livable environment. These spaces improve
+    residents' quality of life and provide natural buffers between buildings.\r"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -7122,7 +7083,7 @@ GameObject:
   - component: {fileID: 1734054357}
   - component: {fileID: 1734054356}
   m_Layer: 0
-  m_Name: Exhibit3 (1)
+  m_Name: Exhibit4
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -7385,9 +7346,11 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Carbon Capture and Sequestration: A widespread carbon capture infrastructure
-    could be essential by 2054, pulling CO2 directly from the atmosphere and storing
-    it underground, helping reverse decades of pollution.'
+  m_text: "Develop inclusive economic policies that promote access to education,
+    healthcare, and job opportunities for all residents. Policies that ensure equitable
+    access to resources can reduce wealth disparities and improve quality of life
+    for marginalized communities. This could include scholarships, subsidized healthcare,
+    and job placement programs targeting underprivileged populations.\r"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -7624,21 +7587,11 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Circular Economy Waste Management: Waste in Vancouver would need to be
-    managed by adopting a circular economy model, where all waste is seen as a resource.
-    Advanced waste-to-energy technologies could convert non-recyclable waste into
-    clean energy, while comprehensive recycling programs could ensure that no materials
-    end up in landfills. Robotic waste sorters could enhance recycling efficiency.
-
-    Clean
-    Water Tech and Environmental Laws: To address water pollution, Vancouver could
-    use advanced filtration systems that clean industrial and agricultural runoff
-    before it reaches water sources. Stricter environmental laws and high fines for
-    polluters would need to be rigorously enforced. Meanwhile, eco-restoration programs
-    could aim to rehabilitate the Columbia River, using bioengineering techniques
-    like engineered wetlands to clean water naturally.
-
-'
+  m_text: Use robotic waste sorters to automatically separate recyclables from general
+    waste, improving efficiency and reducing contamination. These AI-driven machines
+    can accurately process large amounts of waste in a fraction of the time, increasing
+    recycling rates. With more precise sorting, more materials can be recycled or
+    repurposed, reducing landfill use.
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -7772,12 +7725,11 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Air Purification Drones & Green Spaces: By 2054, cities like Vancouver
-    could deploy fleets of air purification drones. These autonomous drones would
-    hover over highly polluted areas, capturing CO2, particulate matter, and other
-    pollutants. Additionally, investing in vertical green spaces\u2014plants growing
-    on the exteriors of buildings\u2014would serve as natural air filters, cooling
-    the city and improving air quality."
+  m_text: "Expand renewable energy infrastructure by investing in solar, wind, and
+    geothermal power to meet growing energy needs. Vancouver could become a leader
+    in clean energy by building large solar farms or offshore wind projects. These
+    renewable sources will help reduce reliance on fossil fuels and make the city\u2019s
+    energy grid more sustainable."
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -7911,12 +7863,11 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "Air Purification Drones & Green Spaces: By 2054, cities like Vancouver
-    could deploy fleets of air purification drones. These autonomous drones would
-    hover over highly polluted areas, capturing CO2, particulate matter, and other
-    pollutants. Additionally, investing in vertical green spaces\u2014plants growing
-    on the exteriors of buildings\u2014would serve as natural air filters, cooling
-    the city and improving air quality."
+  m_text: Implement a circular economy system where products are designed for reuse,
+    recycling, or biodegradability. This approach minimizes waste generation by turning
+    materials that would otherwise go to landfills into valuable resources. It also
+    encourages innovation in product design, making sustainable consumption more
+    mainstream.
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -8031,9 +7982,11 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'Carbon Capture and Sequestration: A widespread carbon capture infrastructure
-    could be essential by 2054, pulling CO2 directly from the atmosphere and storing
-    it underground, helping reverse decades of pollution.'
+  m_text: "Implement rent control and stronger tenant protection laws to prevent
+    housing prices from rising excessively. These measures will help keep housing
+    affordable for existing residents, protecting them from being priced out of their
+    neighborhoods. Legal support for renters ensures fair housing practices and helps
+    prevent exploitative rent increases.\r"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -8186,7 +8139,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Pollution and Environmental Crisis Solutions
+  m_text: Housing Crisis Solutions
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
