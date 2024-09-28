@@ -15,17 +15,17 @@ public class PlayerInteraction : MonoBehaviour
 
         void OnCollisionEnter2D(Collision2D other) 
         {
-           /* if (other.tag == "Player")
+            if (other.gameObject.layer == 3)
             {
                 triggerActive = true;
                 Debug.Log("Collided");
-            } */
-            Debug.Log("Collided");
+            } 
         }
-        public void OnTriggerExit(Collider other)
+        void OnCollisionExit2D(Collision2D other)
         {
-            if (other.CompareTag("Player"))
+            if (other.gameObject.layer == 3)
             {
+                Debug.Log("uncollided");
                 triggerActive = false;
                 exhibitText1.SetActive(false);
                 exhibitText2.SetActive(false);
