@@ -13,13 +13,14 @@ public class PlayerInteraction : MonoBehaviour
     int cycle;
     public int maxCycle;
 
-        public void OnTriggerEnter(Collider other)
+        void OnCollisionEnter2D(Collision2D other) 
         {
-            if (other.CompareTag("Player"))
+           /* if (other.tag == "Player")
             {
                 triggerActive = true;
                 Debug.Log("Collided");
-            }
+            } */
+            Debug.Log("Collided");
         }
         public void OnTriggerExit(Collider other)
         {
