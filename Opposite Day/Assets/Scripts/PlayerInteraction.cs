@@ -70,7 +70,7 @@ public class PlayerInteraction : MonoBehaviour
                     cycle += 1;
                 }
             }
-            if (cycle >= maxCycle)
+            if (cycle > maxCycle)
             {
                 cycle = 1;
             }
