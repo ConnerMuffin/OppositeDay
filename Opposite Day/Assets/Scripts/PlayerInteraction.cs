@@ -13,19 +13,19 @@ public class PlayerInteraction : MonoBehaviour
     int cycle;
     public int maxCycle;
 
-        void OnCollisionEnter2D(Collision2D other) 
+        public void OnTriggerEnter2D(Collider2D other)
         {
-            if (other.gameObject.layer == 3)
+            if (other.CompareTag("Player"))
             {
                 triggerActive = true;
-                Debug.Log("Collided");
-            } 
+                Debug.Log("Collided") ;
+            }
         }
-        void OnCollisionExit2D(Collision2D other)
+        public void OnTriggerExit2D(Collider2D other)
         {
-            if (other.gameObject.layer == 3)
+            if (other.CompareTag("Player"))
             {
-                Debug.Log("uncollided");
+                Debug.Log("Uncollided");
                 triggerActive = false;
                 exhibitText1.SetActive(false);
                 exhibitText2.SetActive(false);
