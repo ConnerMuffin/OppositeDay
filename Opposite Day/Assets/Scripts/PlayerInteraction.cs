@@ -4,13 +4,13 @@ using UnityEngine;
 
 public class PlayerInteraction : MonoBehaviour
 {
-    bool triggerActive = false;
+    bool triggerActive;
     public GameObject exhibitText1;
     public GameObject exhibitText2;
     public GameObject exhibitText3;
     public GameObject exhibitText4;
     public GameObject exhibitText5;
-    int cycle;
+    int cycle = 1;
     public int maxCycle;
 
         public void OnTriggerEnter2D(Collider2D other)
@@ -18,7 +18,7 @@ public class PlayerInteraction : MonoBehaviour
             if (other.CompareTag("Player"))
             {
                 triggerActive = true;
-                Debug.Log("Collided") ;
+                Debug.Log("Collided");
             }
         }
         public void OnTriggerExit2D(Collider2D other)
@@ -70,7 +70,7 @@ public class PlayerInteraction : MonoBehaviour
                     cycle += 1;
                 }
             }
-            if (cycle >= maxCycle)
+            if (cycle > maxCycle)
             {
                 cycle = 1;
             }
